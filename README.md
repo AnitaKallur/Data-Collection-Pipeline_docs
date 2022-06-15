@@ -1,6 +1,14 @@
 # Data-Collection-Pipeline
-This project is based on selenium to automate the web page. We need to import few modules to run smoothly.
-After deciding on the website, we need to decide as to what exactly we need to scrape. I have scraped Best Selling Books on Amazon. So i get the links of the each listed book in the web page.
-for fetching the links of each books, we need to go the the link and inspect to get the XPATH or ID etc write in the code.
-We must create a directory to dump all data
-Add docstrings to all functions
+This project demonstrates how webscraping is done using diffent libraries to create python classes using different methods to exctract/collect data from the chosen website from browsing, collecting, saving the data in the database. Below are many milestones to follow in order to complete the project successfully. 
+
+Task 1: Create environment, set up Web driver, install dependencies.
+conda create --name Data_Collection_Pipeline
+
+pip3 install selenium
+pip3 install pandas
+
+Set up the Web Driver downloading ChromeDriver Manager,
+For this Webscraping project had downloaded google-chrome version is 102.0.5005 to be used as a main driver for this project.
+
+<img width="1440" alt="Screenshot 2022-06-15 at 22 04 01" src="https://user-images.githubusercontent.com/98617552/173929665-beee311b-82fc-498b-977d-4bd772483aef.png">
+
