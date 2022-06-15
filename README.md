@@ -10,5 +10,5 @@ pip3 install pandas
 Set up the Web Driver downloading ChromeDriver Manager,
 For this Webscraping project had downloaded google-chrome version is 102.0.5005 to be used as a main driver for this project.
 
-<img width="1440" alt="Screenshot 2022-06-15 at 22 04 01" src="https://user-images.githubusercontent.com/98617552/173929665-beee311b-82fc-498b-977d-4bd772483aef.png">
+![image](https://user-images.githubusercontent.com/98617552/173930898-380f6334-72d8-4d2a-b4f0-93fc73161b6c.png)
 
