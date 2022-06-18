@@ -36,6 +36,8 @@ For this Webscraping project had downloaded google-chrome version is 102.0.5005 
 import unittest
 import selenium
 
+install unittest, its a built-in module to help you write and run tests for your python code.
+
 ![image](https://user-images.githubusercontent.com/98617552/174456955-66d72f0f-023d-44cc-b1ce-61549ea4277c.png)
 
 
