@@ -1,5 +1,5 @@
 # Data-Collection-Pipeline
-This project demonstrates how webscraping is done using diffent libraries to create python classes using different methods to exctract/collect data from the chosen website from browsing, collecting, saving the data in the database. Below are many milestones to follow in order to complete the project successfully. 
+This project demonstrates how webscraping is done using diffent libraries to create python classes using different methods to exctract/collect data from the chosen website from browsing, collecting, saving the data in the database. Below are many milestones to follow in order to complete the project successfully. .
 .
 **Task 1: Create Environment, Set Up Web Driver, Install Dependencies.**
 
