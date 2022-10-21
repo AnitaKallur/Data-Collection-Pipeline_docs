@@ -55,6 +55,10 @@ Creating a JSON file containing all information for that record and uploaded dir
 ![image](https://user-images.githubusercontent.com/98617552/179069852-ddc9c1cc-a9c3-419e-8975-3dfc71fcf616.png)
 ![Uploading Screenshot 2022-07-14 at 14.30.02.png…]()
 
-
+** Task 6: Containerising scraper **
+Running scraper in headless mode and making sure of passing all unit tests.
+Create Docker image and push image to Docker Hub.
 <img width="1440" alt="Screenshot 2022-07-14 at 20 23 55" src="https://user-images.githubusercontent.com/98617552/181379709-a04b8fbc-4c39-41ca-be12-2952c77a0937.png">
 
+** Task 7: Set up a CI/CD pipeline for the Dicker Image **
+This includes, Stting up the GitHub secrets, create GitHub actions
