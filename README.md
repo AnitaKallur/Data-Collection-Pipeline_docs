@@ -62,3 +62,6 @@ Create Docker image and push image to Docker Hub.
 
 ** Task 7: Set up a CI/CD pipeline for the Dicker Image **
 The final step is Setting up the GitHub secrets, creating GitHub action was created to trigger to push to the main branch of your repository. 
+
+
+** Conclusion**
