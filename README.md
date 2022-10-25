@@ -64,4 +64,5 @@ Create Docker image and push image to Docker Hub.
 The final step is Setting up the GitHub secrets, creating GitHub action was created to trigger to push to the main branch of your repository. 
 
 
-** **Conclusion** **
+
+**Conclusion** 
